@@ -1,0 +1,2 @@
+{"timestamp":3857547,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","reason":"invalid-feature","feature":"accessibilityCache"}}
+{"timestamp":3880657,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache","reason":"invalid-feature"}}
